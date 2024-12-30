@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <pp-button></pp-button>
+  <pp-button type="primary" size="large">test button</pp-button>
 </template>
 
 <style scoped>
